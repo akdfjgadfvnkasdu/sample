@@ -1,0 +1,8 @@
+.title{
+    color: aliceblue;
+    box-shadow: 1em;
+}
+
+.title :active{
+    color: blue;
+}
